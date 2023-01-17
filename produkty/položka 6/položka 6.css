@@ -1,0 +1,16 @@
+
+.koupit{
+    color: red;
+    font-size: xx-large;
+    margin-left: 1100px;
+}
+
+.koupit:hover{
+    background-color: blue;
+}
+
+
+.button{
+    border-radius: 10px;
+}
+
