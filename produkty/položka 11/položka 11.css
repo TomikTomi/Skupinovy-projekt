@@ -1,0 +1,18 @@
+
+.koupit{
+    color: red;
+    font-size: xx-large;
+    margin-left: 1000px;
+}
+
+.koupit:hover{
+    background-color: blue;
+}
+.bod{
+    color: white;
+    margin-left: 1100px;
+}
+
+
+
+
