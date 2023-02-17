@@ -15,4 +15,9 @@
     border-radius: 23px;
     background-color: white;
 }
+.img{
+    border: 2px solid black;
+    border-radius: 23px;
+    margin-bottom: -5px;
+}
 
