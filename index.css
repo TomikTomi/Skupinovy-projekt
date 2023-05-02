@@ -1,0 +1,46 @@
+.obrázek1{ 
+    border: 2px solid black;
+    border-radius: 23px;
+    height: 59vh;
+    width: 25vw;
+    
+}
+.obrázek2{ 
+    border: 2px solid black;
+    border-radius: 23px;
+    height: 400px;
+    width: 600px;
+    
+}
+.obrázek3{ 
+    border: 2px solid black;
+    border-radius: 23px;
+    height: 400px;
+    width: 600px;
+    
+}
+.obrázek4{ 
+    border: 2px solid black;
+    border-radius: 23px;
+    height: 400px;
+    width: 600px;
+    
+}
+.text1{
+    background-color: lightcoral;
+    border: 1px solid black;
+    width: fit-content;
+}
+.náměšť1{
+    width: 60%;
+    background-color: chartreuse;
+    border: 1px solid red;
+    border-radius: 15px;
+    margin:auto ;
+}
+.náměšť2{
+    background-color: blue;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: auto;
+}
