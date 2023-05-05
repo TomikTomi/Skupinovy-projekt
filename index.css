@@ -44,6 +44,8 @@
     border: 2px solid black;
     border-radius: 10px;
     margin: auto;
+    width: 300px;
+    height: 400px;
 }
 
 .ikony{
