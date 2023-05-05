@@ -52,5 +52,6 @@
     color: purple;
     border: 1px solid black;
     background-color: cyan;
+    width: fit-content;
 }
 
