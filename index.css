@@ -45,3 +45,10 @@
     border-radius: 10px;
     margin: auto;
 }
+
+.ikony:hover{
+    color: red;
+    border: 1px solid black;
+    background-color: lightblue;
+
+}
