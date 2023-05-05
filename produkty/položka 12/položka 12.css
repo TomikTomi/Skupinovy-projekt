@@ -2,23 +2,28 @@
 .koupit{
     color: red;
     font-size: xx-large;
-    margin-left: 1050px;
+    margin-left: 1100px;
 }
 
 .koupit:hover{
     background-color: blue;
 }
 
-
 .div{
     border: 2px solid black;
     border-radius: 23px;
     background-color: white;
+    width: 100vw;
+    height: 50vh;
+    
 }
 .img{
     border: 2px solid black;
     border-radius: 23px;
     margin-bottom: -5px;
+    width: 30vw;
+    height: 65vh;
 }
+
 
 

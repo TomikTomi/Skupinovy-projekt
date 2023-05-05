@@ -9,15 +9,21 @@
     background-color: blue;
 }
 
-
 .div{
     border: 2px solid black;
     border-radius: 23px;
     background-color: white;
+    width: 100vw;
+    height: 50vh;
+    
 }
 .img{
     border: 2px solid black;
     border-radius: 23px;
     margin-bottom: -5px;
+    width: 30vw;
+    height: 65vh;
 }
+
+
 
