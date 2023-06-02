@@ -63,3 +63,12 @@ width: 50;
 height: 30;
 }
 
+.kontakttext{
+border: 2px solid black;
+width: fit-content;
+background-color: red;
+fond-size: 20px;
+color: lightblue;
+
+}
+
